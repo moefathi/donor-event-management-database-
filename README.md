@@ -33,3 +33,6 @@ I have also included a PDF containing a trimmed version of my original universit
 - **Type:** Academic Project
 - **Course:** Database Design & Development
 - **Semester:** Fall 2024/2025
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
