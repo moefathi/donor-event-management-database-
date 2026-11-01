@@ -32,4 +32,4 @@ I have also included a PDF containing a trimmed version of my original universit
 ## Project Information
 - **Type:** Academic Project
 - **Course:** Database Design & Development
-- **Year:** 2024
+- **Semester:** Fall 2024/2025
